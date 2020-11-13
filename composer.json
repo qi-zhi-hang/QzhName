@@ -9,6 +9,7 @@
             "email": "1360313409@qq.com"
         }
     ],
+    "minimum-stability": "RC",
     "require": {
         "php": ">=7.0"
     },
